@@ -13,16 +13,20 @@ Use authentication module provided by Django
 <img width="774" alt="image" src="https://user-images.githubusercontent.com/79573421/150392390-e966623e-9dbd-4452-9155-a32ab03f77b9.png">
 
 Login Page
-blob:https://web.telegram.org/8fed8a0e-5aa7-48af-9ea3-56f76a79aca8![image](https://user-images.githubusercontent.com/83263481/151239708-ad064f69-5aa3-4f54-82df-86e910b39a62.png)
+![image](https://user-images.githubusercontent.com/83263481/151240166-51b152dd-c9a7-47fc-b587-72f32f761245.png)
+
 
 Register page 
 
-blob:https://web.telegram.org/3b011247-dc1b-472a-a9dd-5f7aac9abbda![image](https://user-images.githubusercontent.com/83263481/151239777-0b201184-3ecc-4238-a3d9-9735ef6b7e62.png)
+![image](https://user-images.githubusercontent.com/83263481/151240229-c20024c8-2d2a-4f48-9f61-7a8aa03b4394.png)
+
 
 Main toDo List 
-blob:https://web.telegram.org/964275d1-8426-4500-839b-c3395e72ad40![image](https://user-images.githubusercontent.com/83263481/151239805-db16948e-aa4f-4ead-900f-5d5236c9ed62.png)
 
-blob:https://web.telegram.org/7f2ac304-ce16-4d36-a5ae-d01fe656a9e6![image](https://user-images.githubusercontent.com/83263481/151239856-c388e5a5-5a88-4139-90fa-ffddb31eada4.png)
+![image](https://user-images.githubusercontent.com/83263481/151240280-4cf0740d-c5ca-4c93-8cd2-e60903ea6e5a.png)
+
+
+
 
 
 
